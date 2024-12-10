@@ -4,7 +4,7 @@
 
 <p align="left">My name is Oussama.<br>I'm a Frontend Developer.<br>From Morocco, based in Vilnius Lithuania.<br>
 Check out 
-<a href="https://osie-portfolio.netlify.app/">My Portfolio</a>
+<a href="https://osie-portfolio.netlify.app/" target='_blank'>My Portfolio</a>
 </p>
 
 ###
