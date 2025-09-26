@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Oussama.<br>I'm a Frontend Developer.<br>From Morocco, based in Vilnius Lithuania.<br>
+<p align="left">My name is Oussama.<br>I'm a Frontend Developer<br>
 Check out 
 <a href="https://osie-portfolio.netlify.app/" target='_blank'>My Portfolio</a>
 </p>
